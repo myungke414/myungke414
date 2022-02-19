@@ -16,7 +16,7 @@ React Vue Java Python TypeScript NextJS
 <br><br><br>
 DB>
 
-oracleDatabase MySQ
+oracleDatabase MySQL
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true&theme=buefy)
