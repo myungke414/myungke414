@@ -12,7 +12,7 @@ React
 
 Vue
 
-Java                                                                                               ❤️
+Java                                                                                               
 
 Python
 
