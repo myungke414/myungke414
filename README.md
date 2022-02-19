@@ -6,15 +6,15 @@
   
 Current I'm learning. Develope Language
 <br><br>
-App:)
+App>
 
 React-native
 <br><br><br>
-Front - Back:)
+Front - Back>
 
 React Vue Java Python TypeScript NextJS
 <br><br><br>
-DB:)
+DB>
 
 oracleDatabase MySQL
 
