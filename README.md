@@ -28,7 +28,7 @@ MySQL
 
 
 ### 😊 The more interactive UX is, the more interesting it is and the joy of learning is often felt.
-### Thank you. Have a good day.👍
+### Thank you. You did a great job today.👍
 
 
 <!--
