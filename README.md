@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+Current I'm learning. Develope Language
+
+App:)
+React-native
+
+Front - Back:)
+React
+Vue
+Java
+Python
+TypeScript
+NextJS
+
+DB:)
+oracleDatabase
+MySQL
+
+
+## 😊 The more interactive UX is, the more interesting it is and the joy of learning is often felt.
+
+
 <!--
 **myungke414/myungke414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
