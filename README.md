@@ -1,20 +1,29 @@
 ### Hi there 👋
 
 Current I'm learning. Develope Language
-
+<br><br>
 App:)
+
 React-native
-
+<br><br>
 Front - Back:)
-React
-Vue
-Java
-Python
-TypeScript
-NextJS
 
+React
+
+Vue
+
+Java
+
+Python
+
+TypeScript
+
+NextJS
+<br><br>
 DB:)
+
 oracleDatabase
+
 MySQL
 
 
