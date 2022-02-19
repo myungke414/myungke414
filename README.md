@@ -12,23 +12,11 @@ React-native
 <br><br><br>
 Front - Back:)
 
-React
-
-Vue
-
-Java                                                                                               
-
-Python
-
-TypeScript
-
-NextJS
+React Vue Java Python TypeScript NextJS
 <br><br><br>
 DB:)
 
-oracleDatabase
-
-MySQL
+oracleDatabase MySQL
 
 
 ### 😊 The more interactive UX is, the more interesting it is and the joy of learning is often felt.
