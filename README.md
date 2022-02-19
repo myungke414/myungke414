@@ -1,5 +1,4 @@
 
-<div align="center">
 
 ### Hi there 👋
 
@@ -17,8 +16,6 @@ React Vue Java Python TypeScript NextJS
 DB>
 
 oracleDatabase MySQL
-
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true&theme=buefy)
