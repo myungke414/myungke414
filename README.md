@@ -5,7 +5,7 @@ Current I'm learning. Develope Language
 App:)
 
 React-native
-<br><br>
+<br><br><br>
 Front - Back:)
 
 React
@@ -19,7 +19,7 @@ Python
 TypeScript
 
 NextJS
-<br><br>
+<br><br><br>
 DB:)
 
 oracleDatabase
@@ -28,6 +28,7 @@ MySQL
 
 
 ### 😊 The more interactive UX is, the more interesting it is and the joy of learning is often felt.
+### Thank you. Have a good day.
 
 
 <!--
