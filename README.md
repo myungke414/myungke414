@@ -31,11 +31,12 @@ MySQL
 ### Thank you. You did a great job today.👍
 
 
-
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple)
-
+</div>
 
 
 <!--
