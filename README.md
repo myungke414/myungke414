@@ -19,7 +19,7 @@ DB:)
 oracleDatabase MySQL
 
 
-### 😊 The more interactive UX is, the more interesting it is and the joy of learning is often felt.
+### The more interactive UX is, the more interesting it is and the joy of learning is often felt.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true&theme=buefy)
