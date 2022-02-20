@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm learning a language that I developed.
+I'm learning a developed language.
 <br><br>
 App>
 
