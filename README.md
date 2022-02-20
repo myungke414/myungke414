@@ -10,7 +10,7 @@ React-native
 <br><br><br>
 Front - Back>
 
-React Vue Java Python TypeScript NextJS
+React Vue Java Python Javascript TypeScript NextJS
 <br><br><br>
 DB>
 
