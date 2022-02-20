@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 
-  
-Current I'm learning. Develope Language
+I'm learning a language that I developed.
 <br><br>
 App>
 
