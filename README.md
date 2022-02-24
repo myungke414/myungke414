@@ -14,7 +14,7 @@ React-native
 <br><br><br>
 Front - Back>
 
-React Vue Java Spring Python Javascript TypeScript NextJS
+React Vue Java Spring Python Javascript Html Css TypeScript NextJS 
 <br><br><br>
 DB>
 
