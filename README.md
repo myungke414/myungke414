@@ -20,10 +20,11 @@ React Vue Java Spring Python Javascript Html Css TypeScript NextJS
 DB>
 
 oracleDatabase MySQL
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true&theme=buefy)
-![myungke414's github stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true)
+<!--
+![myungke414's github stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true) -->
 [![myungke414's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/myungke414)
 ![trophy](https://github-profile-trophy.vercel.app/?username=myungke414)
 
