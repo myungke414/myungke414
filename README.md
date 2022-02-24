@@ -1,12 +1,13 @@
 
+👀I'm interested in....
 
+LINUX SERVER APACHE 
+<br><br><br><br>
 ### Hi there 👋
 
 I'm learning a developed language.
-👀I'm interested in..
-LINUX SERVER APACHE 
 
-<br><br>
+<br>
 App>
 
 React-native
