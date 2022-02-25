@@ -28,7 +28,7 @@ oracleDatabase MySQL
 <!--
 ![myungke414's github stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=myungke414)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={kxoni})](https://solved.ac/{kxoni})
+![myungke414's solved.ac stats](https://github-readme-solvedac.myungke414.vercel.app/api/?kxoni=myungke414)
 <!--
 **myungke414/myungke414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
