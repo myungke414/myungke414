@@ -26,7 +26,7 @@ oracleDatabase MySQL
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple) -->
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kxoni)](https://solved.ac/kxoni)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true&theme=midnight-purple)
 <!--
 ![myungke414's github stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=myungke414)
