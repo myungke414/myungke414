@@ -24,11 +24,13 @@ oracleDatabase MySQL
 [![myungke414's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/myungke414)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&layout=compact&theme=shades-of-purple) -->
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kxoni)](https://solved.ac/kxoni)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true&theme=buefy)
 <!--
 ![myungke414's github stats](https://github-readme-stats.vercel.app/api?username=myungke414&show_icons=true) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=myungke414)
-![myungke414's solved.ac stats](https://github-readme-solvedac.myungke414.vercel.app/api/?kxoni=myungke414)
+
 <!--
 **myungke414/myungke414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
