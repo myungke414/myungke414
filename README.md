@@ -1,5 +1,5 @@
 
-### 🧐 that I like and love...
+### ✨ that I like and love...
 
 LINUX SERVER APACHE TOMCAT SVN JAVA-MVC KOTLIN GITHUB YARN VISUAL-STUDIO NODEJS EXPO JSX FIREBASE API MATH ADMOB SLACK
 <hr>
