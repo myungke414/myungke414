@@ -1,5 +1,5 @@
 
-✨ that I like and love... study
+✨ that I like and love... STUDY
 <hr>
 
 ### Hi there 👋
