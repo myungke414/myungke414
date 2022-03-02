@@ -1,7 +1,7 @@
 
 ✨ that I like and love...
 
-study and coding
+study
 <hr>
 
 ### Hi there 👋
