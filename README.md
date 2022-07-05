@@ -1,4 +1,4 @@
-🐥that I like and love... STUDY
+🐥I like .. STUDY
 <hr>
 
 ### Hi there 👋
