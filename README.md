@@ -1,5 +1,3 @@
-🐥I like .. STUDY
-<hr>
 
 ### Hi there 👋
 
