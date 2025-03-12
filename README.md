@@ -3,18 +3,11 @@
 
 I'm learning a developed language.
 
-<br>
-App>
-
-React-native
 <br><br><br>
 Front - Back>
 
-React Vue Java Spring Python Javascript Html CSS TypeScript NextJS 
-<br><br><br>
-DB>
+React Vue JavaJavascript Html CSS (TypeScript) (NextJS) 
 
-oracleDatabase MySQL
 
 [![myungke414's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=myungke414&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/myungke414)
 <!--
