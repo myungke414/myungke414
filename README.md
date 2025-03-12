@@ -3,8 +3,8 @@
 
 I'm learning a developed language.
 
-<br><br><br>
-Front - Back>
+<br>
+Front>
 
 React Vue JavaJavascript Html CSS (TypeScript) (NextJS) 
 <br><br><br>
