@@ -1,11 +1,6 @@
 
 ### Hi there 👋
 
-I'm learning a developed language.
-
-<br>
-Front>
-
 React Vue JavaJavascript Html CSS (TypeScript) (NextJS) 
 <br><br><br>
 
